@@ -29,5 +29,5 @@ El diseño se basa en una arquitectura de **15 tablas** que garantiza la **Terce
 
 
 
-![Diagrama ER](diagrama_er.png)
+![Diagrama ER](der_tp_final.png)
 *(Asegúrate de subir tu archivo con este nombre exacto para que se visualice aquí)*
